@@ -6,8 +6,8 @@ import smtplib #mail settings
 df = pd.read_csv('list1.csv')
 for index,j in df.iterrows():
 #Sender Credentials
-    gmail_user = 'abhinavchebroluexams@gmail.com'
-    gmail_password = 'Abhi@1289'
+    gmail_user = 'xyz@gmail.com'
+    gmail_password = 'xyz@123'
 #Mailing Details
     email_from = gmail_user
     email_to = j['Mail-ID']
