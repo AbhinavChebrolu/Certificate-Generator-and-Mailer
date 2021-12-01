@@ -1,1 +1,1 @@
-# DSW Certification
+# Certificate-Generator-and-Mailer
